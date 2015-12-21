@@ -1,0 +1,11 @@
+d:\(documents)\documents\visual studio 2012\Projects\Proiect\Proiect\bin\Debug\Proiect.dll
+d:\(documents)\documents\visual studio 2012\Projects\Proiect\Proiect\bin\Debug\Proiect.pdb
+d:\(documents)\documents\visual studio 2012\Projects\Proiect\Proiect\bin\Debug\WebDriver.dll
+d:\(documents)\documents\visual studio 2012\Projects\Proiect\Proiect\bin\Debug\WebDriver.Support.dll
+d:\(documents)\documents\visual studio 2012\Projects\Proiect\Proiect\bin\Debug\WebDriver.xml
+d:\(documents)\documents\visual studio 2012\Projects\Proiect\Proiect\bin\Debug\WebDriver.Support.xml
+d:\(documents)\documents\visual studio 2012\Projects\Proiect\Proiect\obj\Debug\Proiect.dll
+d:\(documents)\documents\visual studio 2012\Projects\Proiect\Proiect\obj\Debug\Proiect.pdb
+d:\(documents)\documents\visual studio 2012\Projects\Proiect\Proiect\bin\Debug\chromedriver.exe
+d:\(documents)\documents\visual studio 2012\Projects\Proiect\Proiect\bin\Debug\chromedriver-license.txt
+d:\(documents)\documents\visual studio 2012\Projects\Proiect\Proiect\obj\Debug\Proiect.csprojResolveAssemblyReference.cache
